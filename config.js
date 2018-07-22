@@ -2,13 +2,13 @@ module.exports = {
   owner: '', // Put your user id here. Try typing \@User#tag to get your id.
   asyncLimit: 5,
   updateInterval: 60 * 2, // 2 Minutes
-  commandPrefix: '!',
+  commandPrefix: '>',
   coc: {
     apiKey: '',
   },
   discord: {
-    clientId: '',
-    userToken: ''
+    clientId: '469804249123913728',
+    userToken: 'NDY5ODA0MjQ5MTIzOTEzNzI4.DjUuIA.4g2iaM1i1hGRhKWxNiQZtzjWD3U'
   },
   starColors: [
     0xff484e, // 0 Stars
